@@ -1,0 +1,12 @@
+{
+  "name": "rebase-conflict-practice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "API đơn giản để thực hành xử lý conflict khi rebase",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
